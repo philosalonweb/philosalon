@@ -1,0 +1,6 @@
+{
+  "name": "PHILO Hair & Beauty Salon",
+  "description": "Where beauty meets artistry. Discover your beauty, define your style at PHILO Hair & Beauty Salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
